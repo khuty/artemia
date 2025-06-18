@@ -5,7 +5,7 @@ import { FaGripLines } from "react-icons/fa";
 useState
 
 
-export default function Navber () {
+export default function Navbar () {
     const [menuOpen,setMenuOpen] =useState(false);
     const toggleMenu = () => {
         setMenuOpen (!menuOpen);

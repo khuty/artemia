@@ -11,7 +11,7 @@ export default function Footer () {
     return(
         <footer className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 lg:py4 lg:px-2 lg:gap-0">
             <div>
-                <p className="text-4xl text-blue-500 font-bold" >Artemis</p>
+                <p className="text-4xl text-blue-500 font-bold" >Artemia</p>
                 <p className="text-xs text-gray-600"> &copy;{year} Business management application</p>
             </div>
             <div>
